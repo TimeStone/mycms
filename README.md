@@ -1,0 +1,2 @@
+# mycms
+Django CMS
